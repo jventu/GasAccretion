@@ -1,0 +1,5 @@
+*.o
+*.mod
+*.out
+GasAcc_exe
+.DS_*

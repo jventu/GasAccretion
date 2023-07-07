@@ -1,0 +1,5 @@
+Modules
+*.o
+*.mod
+*.dSYM
+test
