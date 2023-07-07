@@ -1,6 +1,6 @@
 # GasAccretion
 
-# Dependencies
+## Dependencies
 This repository relies on the `Neural Fortran` library. To build the library you need `cmake`. `cmake` is already installed on many disributions by default, to check if this is the case open a terminal and type:
 ```
 cmake --version
