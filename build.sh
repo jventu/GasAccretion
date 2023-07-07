@@ -3,8 +3,8 @@ cd FKB
 sh build_steps.sh
 cd ..
 echo " "
-echo "-> Build DNN_Atmo Module"
-cd DNN_Atmo
+echo "-> Build DNN_atmo Module"
+cd DNN_atmo
 make clean
 make 
 cd ..
